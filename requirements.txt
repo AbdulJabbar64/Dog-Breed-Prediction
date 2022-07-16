@@ -1,4 +1,3 @@
 Keras
 opencv_python
 streamlit
-opencv-python
