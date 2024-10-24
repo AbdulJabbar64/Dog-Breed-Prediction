@@ -2,4 +2,3 @@ tensorflow
 opencv-python==4.5.5.62
 streamlit==1.10.0
 opencv-contrib-python-headless
-altair
